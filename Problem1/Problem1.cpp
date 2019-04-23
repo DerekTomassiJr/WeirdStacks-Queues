@@ -10,7 +10,7 @@ Problem1::Problem1() {
 }
 
 Problem1::~Problem1() {
-    //constructor has nothing to delete
+    //destructor has nothing to delete
     //or no memory to free up
 }
 
